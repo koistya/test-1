@@ -5,13 +5,13 @@
       />
     </g>
   </defs>
-  <g class="discord-logo">
-    <a href="https://discord.com" target="_blank">
-      <use class="discord-original" href="#discord-logo">
-      </use>
-    </a>
-    <animateTransform attributeName="transform" type="rotate" values="0 24 24;-18 24 24;16.8 24 24;-11.4 24 24;8.7 24 24;-7.5 24 24;6 24 24;-4.8 24 24;3.79 24 24;-3.12 24 24;2.52 24 24;-2.01 24 24;1.56 24 24;-1.2 24 24;0.96 24 24;-0.75 24 24;0.6 24 24;-0.48 24 24;0.384 24 24;0 24 24;0 24 24;0 24 24;0 24 24;0 24 24;0 24 24"
-    begin="0s" dur="2s" fill="freeze" repeatCount="indefinite" />
-  </g>
+  <a href="https://discord.com" target="_blank">
+    <g class="discord-logo">
+        <use class="discord-original" href="#discord-logo">
+        </use>
+      <animateTransform attributeName="transform" type="rotate" values="0 24 24;-18 24 24;16.8 24 24;-11.4 24 24;8.7 24 24;-7.5 24 24;6 24 24;-4.8 24 24;3.79 24 24;-3.12 24 24;2.52 24 24;-2.01 24 24;1.56 24 24;-1.2 24 24;0.96 24 24;-0.75 24 24;0.6 24 24;-0.48 24 24;0.384 24 24;0 24 24;0 24 24;0 24 24;0 24 24;0 24 24;0 24 24"
+      begin="0s" dur="2s" fill="freeze" repeatCount="indefinite" />
+    </g>
+  </a>
   <animate fill="freeze" dur="4000ms" begin="0s" values="#DA7272;#DABF72;#A6DA72;#72DA8C;#72DADA;#728CDA;#A672DA;#DA72C0;#DA7272" calMode="linear" attributeName="fill" repeatCount="indefinite" />
 </svg>
